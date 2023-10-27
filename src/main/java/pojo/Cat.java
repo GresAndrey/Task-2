@@ -2,5 +2,5 @@ package pojo;
 
 public class Cat {
     // прием
-    // фыа
+    // фыа пншгщ8п
 }
